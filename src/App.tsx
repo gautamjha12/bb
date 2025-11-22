@@ -77,13 +77,15 @@ const BACKGROUND_FADE_START = Math.max(
 );
 
 const TYPED_LINES = [
-  "> tina",
+  "> janavi",
   "...",
-  "> today is your birthday",
+  "> you have always been a good girl (some exceptions though😂)",
   "...",
   "> so i made you this computer program",
   "...",
-  "٩(◕‿◕)۶ ٩(◕‿◕)۶ ٩(◕‿◕)۶"
+  "> baddie energy",
+  "...",
+  " 💅👑😎🖤💄👠✨😏🌟🔥❤️"
 ];
 const TYPED_CHAR_DELAY = 100;
 const POST_TYPING_SCENE_DELAY = 1000;
